@@ -40,7 +40,7 @@ except:
 if ":" not in Info:
 	token = ("6818202615:AAECdE_S67POFALg1qVanGP84qXrXjI4Qa8");reqtoken = requests.get(f"https://api.telegram.org/bot{token}/getme").json();req = reqtoken["ok"]
 	if req == True:
-		id = input("- EnTeR iD : ")
+		id = ("6818202615:AAECdE_S67POFALg1qVanGP84qXrXjI4Qa8")
 		o = open("info.txt",'a').write(str(token)+'\n'+str(id))
 		print("- Done .")
 	else:
@@ -309,7 +309,7 @@ async def main(app, message):
                   q  +=1
                   pass
                try:
-                   await qt.set_username("r_r_b0")
+                   await qt.set_username("u4060")
                except FloodWait as e:
                    n += 1
                except Exception as e:
@@ -535,7 +535,7 @@ async def main(app, message):
                         clicks+=1
                         t = Client("name_session", session_string=session, api_id=17765175, api_hash="e77878aa96e80375b1272e60f746bbf2")
                         await t.connect()
-                        x = (await t.create_supergroup("𝐅𝐥𝐨𝐨𝐝 𝐊𝐢𝐧𝐠𝐬 #𝟏", "@Flood_kings \ @R_R_B0")).id                        
+                        x = (await t.create_supergroup("𝐅𝐥𝐨𝐨𝐝 𝐊𝐢𝐧𝐠𝐬 #𝟏", "@DevEviI \ @u4060")).id                        
                         await asyncio.sleep(float(isl))
                         await t.set_chat_username(x, wa)
                         await t.send_video(x,video=f"https://t.me/vd_d_dd/39",caption=f"• 𝐒𝐨𝐫𝐫𝐲 𝐖𝐞 𝐊𝐢𝐧𝐠𝐬 𝐅𝐥𝐨𝐨𝐝!\n• 𝐔𝐬𝐞𝐫 ➞ : [ @{wa} ]\n• 𝐂𝐥𝐢𝐜𝐤𝐬 ➞ : [ {clicks} ]\n• 𝐇𝐮𝐧𝐭𝐞𝐝 𝐁𝐲 ➞ : {first_name}")
