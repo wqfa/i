@@ -9,3 +9,4 @@ kvsqlite
 Pyrogram
 pyromod
 requests 
+redis
