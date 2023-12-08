@@ -9,7 +9,6 @@ import requests
 import subprocess
 import urllib.request
 import uvloop
-uvloop.install()
 from time import time
 from time import sleep
 from pyromod import listen
