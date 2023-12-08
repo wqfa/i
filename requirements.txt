@@ -9,15 +9,11 @@ kvsqlite
 Pyrogram
 pyromod
 requests 
-redis
-asyncio
+asyncio==3.4.3
 os
 random
 time
-pyrogram
-pyromod
 redis
-requests
 subprocess
 urllib
 uvloop
