@@ -9,7 +9,7 @@ kvsqlite
 Pyrogram
 pyromod
 requests 
-asyncio==3.4.3
+asyncio
 os
 random
 time
