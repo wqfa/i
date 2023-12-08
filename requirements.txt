@@ -1,5 +1,3 @@
-pyTelegramBotAPI
-python
 telethon
 kvsqlite
 Pyrogram
