@@ -1,7 +1,6 @@
 pyTelegramBotAPI
 python-telegram-bot
 rich
-telegram
 python
 telethon
 kvsqlite
