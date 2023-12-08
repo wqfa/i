@@ -1,8 +1,7 @@
 telethon
 kvsqlite
 Pyrogram
-pyromod
-requests 
+pyromod 
 random
 time
 redis
