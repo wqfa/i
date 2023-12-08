@@ -1,5 +1,4 @@
 pyTelegramBotAPI
-python-telegram-bot
 python
 telethon
 kvsqlite
