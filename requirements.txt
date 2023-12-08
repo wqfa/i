@@ -3,7 +3,6 @@ kvsqlite
 Pyrogram
 pyromod
 requests 
-asyncio
 random
 time
 redis
