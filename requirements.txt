@@ -1,6 +1,5 @@
 pyTelegramBotAPI
 python-telegram-bot
-rich
 python
 telethon
 kvsqlite
@@ -8,7 +7,6 @@ Pyrogram
 pyromod
 requests 
 asyncio
-os
 random
 time
 redis
